@@ -1,4 +1,5 @@
-    My name is Matthew Wang im a freshman computer sceinence student at Cal State Fullerton
+My name is Matthew Wang and im a freshman at Cal State fullerton 
+
 I really liked lab 6 part 1. It was a random sandwich generator which I thought was just a funny lab. It was cool to see how random 
 enerators were coded and how they worked the point of this lab was us to get used to vectors and strings
 
