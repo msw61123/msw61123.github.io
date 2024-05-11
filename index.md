@@ -1,5 +1,5 @@
 # Hello World
-This is my home Page! My name is Matthew Wang im a freshman computer sceinence student at Cal State Fullerton (https://fullerton.edu)
+This is my home Page! My name is Matthew Wang im a freshman computer science student at Cal State Fullerton (https://fullerton.edu)
 # Computer Science Projects 
 My Github page is http://github.com/msw61123.
 ### CPSC 120
